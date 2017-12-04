@@ -5,10 +5,10 @@
 ###  From CRAN Repository
 
 1. Open RSudio and select **Packages** tab in the bottom right panel:
-    ![](plts/pkg1.png?raw=true)
+    ![](plt/pkg1.png?raw=true)
 
 2. Click on **Install** tab. In the popup window type the name (or coma separated list of names) of the package you want to install from CRAN. Make sure that the **Install dependencies** filed is checked.
- ![](plts/pkg2.png?raw=true)
+ ![](plt/pkg2.png?raw=true)
  3. Click on **Install*** button.
  
 
@@ -18,7 +18,7 @@
 ###  From ZIP Archive
 1. Open RSudio and select **Packages** tab in the bottom right panel.
 2. Select the package archive ( ***.zip*** or ***.tar.gz***) to install from the Open dialogue box. Packages installed from archives will require dependencies to be installed manually.
- ![](plts/pkg3.png?raw=true)
+ ![](plt/pkg3.png?raw=true)
 
 
 
