@@ -1,5 +1,5 @@
 # R_Precourse_Instructions
-Instructions fo installation of R and RStudio
+Instructions for installation of R, RStudio and R packages
 
 
 ## Installation instructions 
@@ -7,7 +7,7 @@ Follow instructions given in:
 * [R and RStudio Installation](https://github.com/MangoTheCat/R_Precourse_Instructions/blob/master/Installation%20instructions.md)
 * [Installing R packages](https://github.com/MangoTheCat/R_Precourse_Instructions/blob/master/Installing%20R%20packages.md)
 
-to install R and RStudio. 
+to install R, RStudio and R packages. 
 
 
 ## Further Reading
