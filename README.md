@@ -10,4 +10,6 @@ The instructions for installations of R, RStudio and R packages are given at the
 
 
 
+There you can also find the datasets nedded for the trainings:
 
+[datasets](https://www.mango-solutions.com/teach-yourself-r-in-24-hours-book/data-sets/)
